@@ -173,7 +173,7 @@ export default function GalaxyScene({ scrollY }) {
     >
       <Lights />
       <CameraRig scrollY={scrollY} />
-      <StarField />
+      {/* <StarField /> */}
       <WireframeSphere scrollY={scrollY} />
       <OrbitParticles scrollY={scrollY} />
       <EquatorialRing scrollY={scrollY} />
