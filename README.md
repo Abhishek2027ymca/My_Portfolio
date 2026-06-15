@@ -1,4 +1,4 @@
-# Abhishek Singh — Portfolio
+<!-- # Abhishek Singh — Portfolio
 
 Single-page, 3D-enhanced developer portfolio. React + Vite + Tailwind CSS +
 React Three Fiber.
@@ -34,4 +34,4 @@ links here).
 3. 3D hero scene (R3F particle galaxy)
 4. Content sections
 5. Polish (animations, responsiveness, a11y)
-6. Deploy (Vercel)
+6. Deploy (Vercel) -->
