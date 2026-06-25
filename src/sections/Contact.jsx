@@ -28,7 +28,7 @@ export default function Contact() {
     <section id="contact" style={{ padding: '6rem 1.5rem', backgroundColor: '#0B0E17' }}>
       <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
         <FadeIn>
-          <p className="section-label">// 06 Contact</p>
+          <p className="section-label"></p>
           <h2 className="section-heading" style={{ marginBottom: '1rem' }}>Let's Build Something Together</h2>
           <p style={{ color: '#8A93A6', marginBottom: '3rem', maxWidth: '28rem' }}>
             Open to internships, freelance projects, or just a good tech conversation.

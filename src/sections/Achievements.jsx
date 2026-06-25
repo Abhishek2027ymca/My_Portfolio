@@ -8,7 +8,7 @@ export default function Achievements() {
     <section id="achievements" style={{ padding: '6rem 1.5rem' }}>
       <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
         <FadeIn>
-          <p className="section-label">// 05 Achievements</p>
+          <p className="section-label"></p>
           <h2 className="section-heading" style={{ marginBottom: '3rem' }}>Milestones</h2>
         </FadeIn>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: '1.25rem', maxWidth: '40rem' }}>

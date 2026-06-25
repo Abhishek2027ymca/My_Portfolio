@@ -7,7 +7,7 @@ export default function Experience() {
     <section id="experience" style={{ padding: '6rem 1.5rem', backgroundColor: '#0B0E17' }}>
       <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
         <FadeIn>
-          <p className="section-label">// 04 Experience</p>
+          <p className="section-label"></p>
           <h2 className="section-heading" style={{ marginBottom: '3rem' }}>Where I've Worked</h2>
         </FadeIn>
         <div style={{ position: 'relative', borderLeft: '1px solid #1E2433', paddingLeft: '2rem', display: 'flex', flexDirection: 'column', gap: '2.5rem' }}>

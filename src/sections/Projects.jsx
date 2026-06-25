@@ -41,7 +41,7 @@ export default function Projects() {
   return (
     <section id="projects" style={{ padding: '6rem 1.5rem', backgroundColor: '#0B0E17' }}>
       <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
-        <p className="section-label">// 02 Projects</p>
+        <p className="section-label"> </p>
         <h2 className="section-heading" style={{ marginBottom: '3rem' }}>Things I've Built</h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem' }}>
           {projects.map(p => <ProjectCard key={p.id} project={p} />)}

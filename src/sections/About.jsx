@@ -6,7 +6,7 @@ export default function About() {
     <section id="about" style={{ padding: '6rem 1.5rem' }}>
       <div style={{ maxWidth: '1280px', margin: '0 auto' }}>
         <FadeIn>
-          <p className="section-label">// 01 About</p>
+          <p className="section-label"></p>
           <h2 className="section-heading" style={{ marginBottom: '3rem' }}>{aboutContent.heading}</h2>
         </FadeIn>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '3rem' }}>
